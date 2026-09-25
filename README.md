@@ -1,16 +1,13 @@
-## Hi there 👋
+### Ricardo Yazigi
 
-<!--
-**RicciYazigi/RicciYazigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Runtime containment and evaluation tooling for AI systems — research kernel to installable library.
 
-Here are some ideas to get you started:
+**What to look at first**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **[fuse-ai](https://github.com/RicciYazigi/fuse-ai)** — Apache-licensed, sensor-agnostic fusion for containment signals (Python 3.10–3.12, CI on `main`). Not on PyPI yet.
+2. **[benchmark2026](https://github.com/RicciYazigi/benchmark2026)** (AegisBench) — evaluation harness and claims discipline for the same line.
+3. **[4r2v6](https://github.com/RicciYazigi/4r2v6)** — research kernel / SDK lineage behind the above.
+
+I optimize for measurable claims, a clean public surface, and no certification theater.
+
+Based in Ecuador (`America/Bogota`).
